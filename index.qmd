@@ -9,7 +9,6 @@ title: "My website and data analysis portfolio"
 Welcome to **my website** and _data analysis portfolio._ 
 
 
-* Please use the `Menu Bar` above to look around.
-* Have fun!
+* Please have fun and take a look around.
 
-**Feel free to change this text any way you want 😁!**
+
